@@ -9,11 +9,11 @@ export default function Home() {
       <h1>FODENDO CASAMENTOS DESDE 1969</h1>
 
       <section>
-        {images.map((imagem, index) => (
+        {/* {images.map((imagem, index) => (
           <div key={index}>
             <img  src={`./${imagem}`} alt="" />
           </div>
-        ))}
+        ))} */}
       </section>
 
     </main>
